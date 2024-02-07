@@ -7,7 +7,9 @@ The arduino monitors the leds on the charger to detect whether the charging is j
 or is totally complete and plays a short or long jingle depending on which charge state it
 detects.  
 You can use any arduino for this. I used a pro mini for its small size and low power consumption
-but a pro micro, nano, or any other 5v! tollerant microcontroller will do.
+but a pro micro, nano, or any other 5v! tollerant microcontroller will do.  
+
+[![AAAAAAAAA](https://img.youtube.com/vi/VoyhR_ulGIQ/0.jpg)](https://www.youtube.com/watch?v=VoyhR_ulGIQ)
 
 # DC18RC
 <img src="https://github.com/Real-Time-Kodi/MakitaJukebox/blob/bf120546cb7fedda6acbc5d6aee3256074883976/DC18RC_Diagram_front.jpg" />  
